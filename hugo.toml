@@ -1,17 +1,18 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://yoga.antoninerochet.fr/'
 languageCode = 'en-us'
 title = 'Yoga Antonine Rochet - Larchant'
 theme = 'roxo-hugo'
+summarylength = 25
 
-  [params.banner]
-    enable                = true
-    background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "Antonine Yoga"
-    tagline               = "YOGA IYENGAR À LARCHANT ET SES ENVIRONS"
-    primary_button        = "Les Cours"
-    primary_button_url    = "portfolio"
-    secondary_button      = "Le Studio"
-    secondary_button_url  = "contact"
+[params.banner]
+  enable                = true
+  background_image      = "images/backgrounds/hero-background.jpg"
+  heading               = "Antonine Yoga"
+  tagline               = "YOGA IYENGAR À LARCHANT ET SES ENVIRONS"
+  primary_button        = "Les Cours"
+  primary_button_url    = "cours"
+  secondary_button      = "Le Studio"
+  secondary_button_url  = "studio"
 
 [menu]
   # Navbar Menus
@@ -45,8 +46,8 @@ theme = 'roxo-hugo'
   custom_stylesheets = []   # [ "scss/my_1.scss", "scss/my_2.scss" ]
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
-  author = "StaticMania"
+  description = "Yoga Iyengar Larcht | Antonine Rochet"
+  author = "Quentin Glorieux"
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
@@ -96,3 +97,25 @@ theme = 'roxo-hugo'
         description = "Venir vous voir"
       [params.footer.back_to_top]
         description = "On remonte doucement en serrant les pieds"
+
+# Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Get in touch"
+    url     = "contact"
+
+[params.portfolio]
+    enable    = true
+    title     = "OUR RECENT WORKS"
+    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    view_project = "view project"
+    more_works = "MORE WORKS"
+
+[params.call_to_action]
+  enable              = true
+  background_image    = "images/backgrounds/cta-background.jpg"
+  title               = "VENEZ DÉCOUVRIR"
+  primary_button      = "Contact"
+  primary_button_url  = "contact"
+  secondary_button    = "En savoir plus"
+  secondary_button_url = "portfolio"
