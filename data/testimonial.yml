@@ -1,18 +1,18 @@
 enable  : true
-title   : "OPINION FROM REAL PEOPLE"
-subtitle: "What clients says about our services."
+title   : "LES TÉMOIGNAGES DES ELÈVES"
+subtitle: "Venez découvrir les retours d'expérience de nos élèves."
 testimonial_item :
   - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Simonns Hodge"
-    company_position: "CEO, Credito"
+    name  : "Garance Champlois"
+    company_position: "Débutante"
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            "Ces cours de yoga Iyengar m'ont permis de me recentrer et de trouver un équilibre dans ma vie quotidienne. La qualité de l'enseignement est exceptionnelle et l'ambiance du studio est très apaisante." 
 
   - thumb : "images/testimonial/user-thumb-two.jpg"
-    name  : "Rekon Montino"
-    company_position: "CDO, Bulmuci"
+    name  : "Quentin Glorieux"
+    company_position: "3 ans de pratique"
     quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+            "J'ai découvert le yoga Iyengar grâce à Antonine et cela a transformé ma pratique. Les ajustements précis et l'attention portée à chaque posture m'ont permis de progresser rapidement et en toute sécurité."
 
   - thumb : "images/testimonial/user-thumb-three.jpg"
     name  : "Ryan Hillary"

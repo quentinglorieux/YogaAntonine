@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "LE YOGA IYENGAR EN CHIFFRES"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: Cours par semaine
+    number: "8"
 
-  - title: "Projects Completed"
-    number: "100"
+  - title: "Super élèves"
+    number: "90"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "Cordes"
+    number: "20"
 
-  - title: "Telephone Talks"
+  - title: "Litres de sueur"
     number: "775"
