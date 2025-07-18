@@ -15,25 +15,24 @@ testimonial_item :
             "J'ai découvert le yoga Iyengar grâce à Antonine et cela a transformé ma pratique. Les ajustements précis et l'attention portée à chaque posture m'ont permis de progresser rapidement et en toute sécurité."
 
   - thumb : "images/testimonial/user-thumb-three.jpg"
-    name  : "Ryan Hillary"
+    name  : "Jivko Darakchiev"
     company_position: "MD, Udilamo"
     quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
+            "Je pratique le yoga Iyengar depuis plusieurs années et je n'ai jamais trouvé une professeure aussi compétente et passionnée qu'Antonine. Ses cours sont toujours enrichissants et motivants." 
 
   - thumb : "images/testimonial/user-thumb-four.jpg"
-    name  : "Dockrel Kahn"
+    name  : "Léa Martin"
     company_position: "PM, Walmet"
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            "Ces cours de yoga Iyengar m'ont permis de me recentrer et de trouver un équilibre dans ma vie quotidienne. La qualité de l'enseignement est exceptionnelle et l'ambiance du studio est très apaisante."
 
   - thumb : "images/testimonial/user-thumb-five.jpg"
-    name  : "Orino Monteno"
+    name  : "Rosalie Dupont"
     company_position: "CEO, Axion"
     quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
-
+            "Le yoga Iyengar avec Antonine a été une révélation pour moi. J'ai appris à écouter mon corps et à respecter mes limites tout en développant ma force et ma flexibilité. Je recommande vivement ses cours à tous ceux qui cherchent à approfondir leur pratique."
   - thumb : "images/testimonial/user-thumb-six.jpg"
-    name  : "Welfo Roy"
+    name  : "Léo Morel"
     company_position: "PDO, Komoyo"
     quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
+            "J'ai commencé le yoga Iyengar avec Antonine il y a quelques mois et j'ai déjà constaté une amélioration significative de ma posture et de ma concentration. Ses cours sont toujours bien structurés et adaptés à tous les niveaux."

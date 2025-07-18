@@ -30,12 +30,16 @@ summarylength = 25
     weight  = 3
   [[menu.nav]]
     name    = "Le Studio"
-    url     = "blog"
+    url     = "studio"
     weight  = 4
+  [[menu.nav]]
+    name    = "Blog"
+    url     = "blog"
+    weight  = 5
   [[menu.nav]]
     name    = "Contact"
     url     = "contact"
-    weight  = 5
+    weight  = 6
 
 # Site Params
 [params]
