@@ -84,7 +84,7 @@ summarylength = 25
     enable    = true
     title     = "OUR RECENT WORKS"
     subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
-    view_project = "view project"
+    view_project = "En savoir plus"
     more_works = "MORE WORKS"
     scroll_down = "scroll down"
 

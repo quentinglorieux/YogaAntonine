@@ -1,9 +1,9 @@
 ---
-title: "YOGA POUR LES GRIMPEURS"
+title: "COURS PARTICULIERS"
 date: 2019-12-23T15:44:46+06:00
 type: portfolio
 image: "images/projects/project-thumb-four.jpg"
-category: ["VAUDOUÉ"]
+category: ["A DOMICILE"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
 
