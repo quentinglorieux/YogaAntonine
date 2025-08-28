@@ -1,0 +1,14 @@
+enable : true
+heading : "LE YOGA IYENGAR EN CHIFFRES"
+counter_item: 
+  - title: Cours par semaine
+    number: "8"
+
+  - title: "Super élèves"
+    number: "90"
+
+  - title: "Cordes"
+    number: "20"
+
+  - title: "Litres de sueur"
+    number: "775"

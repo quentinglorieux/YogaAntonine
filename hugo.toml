@@ -1,0 +1,125 @@
+baseURL = 'https://yoga.antoninerochet.fr/'
+languageCode = 'en-us'
+title = 'Yoga Antonine Rochet - Larchant'
+theme = 'roxo-hugo'
+summarylength = 25
+
+[params.banner]
+  enable                = true
+  background_image      = "images/backgrounds/hero-background.jpg"
+  heading               = "Antonine Yoga"
+  tagline               = "YOGA IYENGAR À LARCHANT ET SES ENVIRONS"
+  primary_button        = "Les Cours"
+  primary_button_url    = "portfolio"
+  secondary_button      = "Le Studio"
+  secondary_button_url  = "studio"
+
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Accueil"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "Yoga Iyengar"
+    url     = "about"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Les Cours"
+    url     = "portfolio"
+    weight  = 3
+  [[menu.nav]]
+    name    = "Le Studio"
+    url     = "studio"
+    weight  = 4
+  [[menu.nav]]
+    name    = "Blog"
+    url     = "blog"
+    weight  = 5
+  [[menu.nav]]
+    name    = "Contact"
+    url     = "contact"
+    weight  = 6
+
+# Site Params
+[params]
+  logo = "images/logoSadhaka.png"
+  logo_footer = "images/logo-footer.png"
+  favicon_icon = "images/favicon.ico"
+  favicon_shortcut_icon = "images/favicon.png"
+  custom_stylesheets = []   # [ "scss/my_1.scss", "scss/my_2.scss" ]
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Yoga Iyengar Larcht | Antonine Rochet"
+  author = "Quentin Glorieux"
+  # Google Analitycs
+  googleAnalitycsID = "Your ID"
+  # We're using formspree.io for form handling, paste your formspree url below
+  fabform  = "https://fabform.io/f/USAg2Jl"
+
+[params.footer]
+    params.footer.qr_print = false
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Contact"
+      address = "16 Place des Tilleuls <br> 77760 Larchant"
+      phone   = "06.47.68.13.26"
+      email   = "yoga@antoninerochet.fr"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "Site"
+        [[params.footer.sitemap.link]]
+          name = "À propos"
+          url  = "about"
+        [[params.footer.sitemap.link]]
+          name = "Les cours"
+          url  = "portfolio"
+        [[params.footer.sitemap.link]]
+          name = "Le Studio"
+          url  = "blog"
+        [[params.footer.sitemap.link]]
+          name = "Blog"
+          url  = "blog"
+        [[params.footer.sitemap.link]]
+          name = "Contact"
+          url  = "contact"
+      # Footer Social Media
+      [params.footer.social]
+        title   = "Réseaux"
+        [[params.footer.social.link]]
+          name = "Instagram"
+          url  = "#"
+        [[params.footer.social.link]]
+          name = "Facebook"
+          url  = "#"
+        [[params.footer.social.link]]
+          name = "Youtube"
+          url  = "#"
+      # Footer Service
+      [params.footer.service]
+        title       = "On peut aussi:"
+        description = "Venir vous voir"
+      [params.footer.back_to_top]
+        description = "On remonte doucement en serrant les pieds"
+
+# Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Get in touch"
+    url     = "contact"
+
+[params.portfolio]
+    enable    = true
+    title     = "OUR RECENT WORKS"
+    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    view_project = "view project"
+    more_works = "MORE WORKS"
+
+[params.call_to_action]
+  enable              = true
+  background_image    = "images/backgrounds/cta-background.jpg"
+  title               = "VENEZ DÉCOUVRIR"
+  primary_button      = "Contact"
+  primary_button_url  = "contact"
+  secondary_button    = "En savoir plus"
+  secondary_button_url = "portfolio"

@@ -1,0 +1,43 @@
+enable  : true
+title   : Mes partenaires
+members  :
+  - image       : images/partners/la.png
+    name        : Larchant Animation
+    designation : Larchant
+    medium      : https://www.larchantanimation.fr
+
+
+  - image       : images/partners/esf.png
+    name        : ESF 77
+    designation : Le Vaudoué
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/partners/dmd.png
+    name        : DMD
+    designation : La Chapelle-la-Reine
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/partners/mf.png
+    name        : Magic Form
+    designation : Nemours
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-six.jpg
+    name        : Les militaires du yoga
+    designation : Fontainebleau
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/partners/arkose.png
+    name        : Arkose
+    designation : Paris, Le Vaudoué, Fontainebleau
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/

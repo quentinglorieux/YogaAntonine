@@ -1,0 +1,38 @@
+enable  : true
+title   : "LES TÉMOIGNAGES DES ELÈVES"
+subtitle: "Venez découvrir les retours d'expérience de nos élèves."
+testimonial_item :
+  - thumb : "images/testimonial/user-thumb-one.jpg"
+    name  : "Garance Champlois"
+    company_position: "Débutante"
+    quote : > 
+            "Ces cours de yoga Iyengar m'ont permis de me recentrer et de trouver un équilibre dans ma vie quotidienne. La qualité de l'enseignement est exceptionnelle et l'ambiance du studio est très apaisante." 
+
+  - thumb : "images/testimonial/user-thumb-two.jpg"
+    name  : "Quentin Glorieux"
+    company_position: "3 ans de pratique"
+    quote : > 
+            "J'ai découvert le yoga Iyengar grâce à Antonine et cela a transformé ma pratique. Les ajustements précis et l'attention portée à chaque posture m'ont permis de progresser rapidement et en toute sécurité."
+
+  - thumb : "images/testimonial/user-thumb-three.jpg"
+    name  : "Jivko Darakchiev"
+    company_position: "MD, Udilamo"
+    quote : > 
+            "Je pratique le yoga Iyengar depuis plusieurs années et je n'ai jamais trouvé une professeure aussi compétente et passionnée qu'Antonine. Ses cours sont toujours enrichissants et motivants." 
+
+  - thumb : "images/testimonial/user-thumb-four.jpg"
+    name  : "Léa Martin"
+    company_position: "PM, Walmet"
+    quote : > 
+            "Ces cours de yoga Iyengar m'ont permis de me recentrer et de trouver un équilibre dans ma vie quotidienne. La qualité de l'enseignement est exceptionnelle et l'ambiance du studio est très apaisante."
+
+  - thumb : "images/testimonial/user-thumb-five.jpg"
+    name  : "Rosalie Dupont"
+    company_position: "CEO, Axion"
+    quote : > 
+            "Le yoga Iyengar avec Antonine a été une révélation pour moi. J'ai appris à écouter mon corps et à respecter mes limites tout en développant ma force et ma flexibilité. Je recommande vivement ses cours à tous ceux qui cherchent à approfondir leur pratique."
+  - thumb : "images/testimonial/user-thumb-six.jpg"
+    name  : "Léo Morel"
+    company_position: "PDO, Komoyo"
+    quote : > 
+            "J'ai commencé le yoga Iyengar avec Antonine il y a quelques mois et j'ai déjà constaté une amélioration significative de ma posture et de ma concentration. Ses cours sont toujours bien structurés et adaptés à tous les niveaux."
